@@ -2,4 +2,4 @@
 
 I'm Minjae, computer engineering student.
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=husk321)](https://solved.ac/pega0922/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pega0922)](https://solved.ac/pega0922/)
