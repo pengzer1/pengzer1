@@ -7,3 +7,4 @@ I'm Minjae, computer engineering student. :smile:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pega0922)](https://solved.ac/pega0922/)
 
+[![Cha's GitHub stats](https://github-readme-stats.vercel.app/api?username=pengzer1&theme=dracula&show_icons=true)]() ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pengzer1&theme=dracula&layout=compact)
